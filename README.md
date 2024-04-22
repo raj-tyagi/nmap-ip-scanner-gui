@@ -46,3 +46,14 @@ pip install -r requirements.txt
 
 Contributions to this project are highly encouraged and appreciated! Whether you're interested in fixing bugs, adding new features, or enhancing documentation, your contributions help improve the functionality and usability of this tool for everyone. 
 
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Contact
+
+For any inquiries or feedback, please contact the project maintainer:
+
+https://www.linkedin.com/in/raj-tyagi-83765b21b/
+
+
