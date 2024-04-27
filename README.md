@@ -1,12 +1,7 @@
 # nmap-ip-scanner-gui
 This repository hosts Python code for an advanced IP scanning tool with a user-friendly graphical interface. Built using the nmap library, it provides efficient network scanning options including Ping Scan, Quick Scan, and Intense Scan, making it ideal for network administrators and cybersecurity professionals.
-Understood, I won't include any clickable links in the README content. If you need to refer to specific files like CONTRIBUTING.md or LICENSE, you can mention them without hyperlinks. Let me adjust the README content accordingly:
 
-
-# Advanced IP Scanner GUI
-
-Welcome to the Advanced IP Scanner GUI repository! This project provides a comprehensive IP scanning tool with a sleek graphical user interface (GUI) powered by Python and the `nmap` library. Whether you're a network administrator, cybersecurity enthusiast, or curious tinkerer, this tool offers powerful yet user-friendly network scanning capabilities.
-
+ 
 ## Features
 
 - **Intuitive GUI**: Enjoy an intuitive and visually appealing interface designed for effortless navigation and ease of use.
@@ -29,11 +24,11 @@ To get started with the Advanced IP Scanner GUI:
 
 Ensure you have Python installed on your machine. Additionally, the following Python libraries are required:
 
-- `tkinter`: For the graphical user interface.
-- `nmap`: For network scanning capabilities.
-- `ttk`: For themed widgets in the GUI.
-- `scrolledtext`: For the scrolled text area widget.
-- `filedialog`: For saving scan results to a text file.
+- **tkinter**: For the graphical user interface.
+- **nmap**: For network scanning capabilities.
+- **ttk**: For themed widgets in the GUI.
+- **scrolledtext**: For the scrolled text area widget.
+- **`filedialog**: For saving scan results to a text file.
 
 You can install these dependencies using pip by running:
 
