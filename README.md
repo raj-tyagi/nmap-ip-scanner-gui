@@ -48,6 +48,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 For any inquiries or feedback, please contact the project maintainer:
 
-https://www.linkedin.com/in/raj-tyagi-83765b21b/
+- **Raj Tyagi**: [LinkedIn](https://www.linkedin.com/in/raj-tyagi-83765b21b/) 
 
 
