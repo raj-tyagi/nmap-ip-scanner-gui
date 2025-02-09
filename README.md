@@ -4,7 +4,7 @@ This repository hosts Python code for an advanced IP scanning tool with a user-f
     
 ## Features
  
-- **Intuitive GUI**: Enjoy an intuitive and visually appealing interface designed for effortless navigation and ease of use.
+- **Intuitive GUI**: Enjoy an intuitive and visually appealing interface designed for effortless navigation and ease of use. 
 - **Versatile Scanning Options**: Choose from a variety of scan types, including Ping Scan, Quick Scan, and Intense Scan, to tailor your scanning approach based on your needs.
 - **Robust Scanning Engine**: Harness the power of the `nmap` library to conduct thorough and efficient scans of target IP addresses, uncovering open ports and potential vulnerabilities.
 - **Detailed Scan Results**: Gain insights into host status, service availability, and potential security risks through detailed scan reports presented within the GUI.
