@@ -2,7 +2,7 @@
 This repository hosts Python code for an advanced IP scanning tool with a user-friendly graphical interface. Built using the nmap library, it provides efficient network scanning options including Ping Scan, Quick Scan, and Intense Scan, making it ideal for network administrators and cybersecurity professionals.
   
      
-## Features
+## Features 
  
 - **Intuitive GUI**: Enjoy an intuitive and visually appealing interface designed for effortless navigation and ease of use. 
 - **Versatile Scanning Options**: Choose from a variety of scan types, including Ping Scan, Quick Scan, and Intense Scan, to tailor your scanning approach based on your needs.
